@@ -116,4 +116,8 @@ Ana Júlia de Lima Aguiar Leite
 ## Links Úteis
 
 - [Artigo de como implementar o padrão Medator usando o MediatR](https://macoratti.net/20/07/aspc_mediatr1.htm)  
-- [.NET - O padrão do projeto Mediator](https://www.macoratti.net/11/06/pp_med1.htm)  
+- [.NET - O padrão do projeto Mediator](https://www.macoratti.net/11/06/pp_med1.htm)
+
+## License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
