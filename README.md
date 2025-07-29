@@ -28,7 +28,7 @@ Projeto criado como apoio para meu estágio, com foco em boas práticas de separ
 
 ```bash
 📂Controllers
-   └── ProductsController.cs
+   └── ProdutosController.cs
 📂Domain
    └── Command.cs
       └── ProdutoCreateCommand.cs
@@ -41,10 +41,10 @@ Projeto criado como apoio para meu estágio, com foco em boas práticas de separ
       └── ProdutoDeleteCommandHandler.cs
       └── ProdutoUpdateCommandHandler.cs
 📂EventsHandlers
-   └── LogEventsHandlers.cs
+   └── LogEventsHandler.cs
 📂Notifications
    ├── ErroNotification.cs
-   ├── ProdutoCreatNotification.cs
+   ├── ProdutoCreateNotification.cs
    ├── ProdutoDeleteNotification.cs
    └── ProdutoUpdateNotification.cs.cs
 📂Repository
