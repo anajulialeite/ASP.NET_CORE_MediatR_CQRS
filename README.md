@@ -22,7 +22,7 @@ Projeto criado como apoio para meu estágio, com foco em boas práticas de separ
 ## Tecnologias e Conceitos utilizado
 
 - [.NET 9](https://dotnet.microsoft.com/)
-- **ASP.NET Core Web MVC**
+- **ASP.NET Core Web API**
 - [MediatR](https://github.com/jbogard/MediatR)
 - Entity Framework Core (com banco em memória)
 - Padrão CQRS (Commands e Queries separados)
