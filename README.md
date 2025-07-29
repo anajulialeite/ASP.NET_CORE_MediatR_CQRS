@@ -2,7 +2,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" align="left" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" align="left" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" align="left" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" align="center" width="50" height="50"/> 
 
 Projeto criado como apoio para meu estágio, com foco em boas práticas de separação de responsabilidades e arquitetura limpa.
 
@@ -29,24 +29,29 @@ Projeto criado como apoio para meu estágio, com foco em boas práticas de separ
 ```bash
 📂Controllers
    └── ProductsController.cs
-📂Data
-   └── ApplicationDbContext.cs
-📂Models
-   └── Product.cs
-📂Commands
-   ├── CreateProductCommand.cs
-   ├── UpdateProductCommand.cs
-   └── DeleteProductCommand.cs
-📂Queries
-   ├── GetAllProductsQuery.cs
-   └── GetProductByIdQuery.cs
-📂Handlers
-   ├── CreateProductHandler.cs
-   ├── UpdateProductHandler.cs
-   ├── DeleteProductHandler.cs
-   ├── GetAllProductsHandler.cs
-   └── GetProductByIdHandler.cs
+📂Domain
+   └── Command.cs
+      └── ProdutoCreateCommand.cs
+      └── ProdutoDeleteCommand.cs
+      └── ProdutoUpdateCommand.cs
+   ├── Entity.cs
+      └── Produto.cs
+   └── Handler.cs
+      └── ProdutoCreateCommandHandler.cs
+      └── ProdutoDeleteCommandHandler.cs
+      └── ProdutoUpdateCommandHandler.cs
+📂EventsHandlers
+   └── LogEventsHandlers.cs
+📂Notifications
+   ├── ErroNotification.cs
+   ├── ProdutoCreatNotification.cs
+   ├── ProdutoDeleteNotification.cs
+   └── ProdutoUpdateNotification.cs.cs
+📂Repository
+   ├── IRepository.cs
+   └── ProdutoRepository.cs
 Program.cs
+Startup.cs
 ```
 
 ## Como Executar
