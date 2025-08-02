@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -97,10 +97,6 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
@@ -110,8 +106,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T04:11:03.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T04:11:03.546Z"
             },
             {
               "$type": "Document",
@@ -123,8 +118,7 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-29T03:59:03.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T03:59:03.399Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "Controllers\\ProdutosController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T03:51:12.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T03:51:12.371Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "EventsHandlers\\LogEventHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T03:36:49.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T03:36:49.095Z"
             },
             {
               "$type": "Document",
@@ -175,8 +167,7 @@
               "RelativeToolTip": "Notifications\\ErroNotification.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T03:35:43.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T03:35:43.123Z"
             },
             {
               "$type": "Document",
@@ -188,8 +179,7 @@
               "RelativeToolTip": "Notifications\\ProdutoDeleteNotification.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T03:33:12.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T03:33:12.275Z"
             },
             {
               "$type": "Document",
@@ -201,8 +191,7 @@
               "RelativeToolTip": "Notifications\\ProdutoUpdateNotification.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T03:32:52.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T03:32:52.507Z"
             },
             {
               "$type": "Document",
@@ -214,8 +203,7 @@
               "RelativeToolTip": "Notifications\\ProdutoCreateNotification.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T03:32:29.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T03:32:29.688Z"
             },
             {
               "$type": "Document",
@@ -227,8 +215,7 @@
               "RelativeToolTip": "Domain\\Handler\\ProdutoUpdateCommandHandler.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAkwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T03:27:19.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T03:27:19.505Z"
             },
             {
               "$type": "Document",
@@ -240,8 +227,7 @@
               "RelativeToolTip": "Domain\\Handler\\ProdutoDeleteCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T03:27:05.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T03:27:05.827Z"
             },
             {
               "$type": "Document",
@@ -253,8 +239,7 @@
               "RelativeToolTip": "Domain\\Handler\\ProdutoCreateCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T03:26:50.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T03:26:50.861Z"
             },
             {
               "$type": "Document",
@@ -266,8 +251,7 @@
               "RelativeToolTip": "Domain\\Entity\\Produto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T03:05:39.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T03:05:39.924Z"
             },
             {
               "$type": "Document",
@@ -279,8 +263,7 @@
               "RelativeToolTip": "Domain\\Command\\ProdutoCreateCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T03:04:22.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T03:04:22.851Z"
             },
             {
               "$type": "Document",
@@ -292,8 +275,7 @@
               "RelativeToolTip": "Repository\\ProdutoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T02:58:40.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T02:58:40.906Z"
             },
             {
               "$type": "Document",
@@ -305,8 +287,7 @@
               "RelativeToolTip": "Repository\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T02:58:27.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T02:58:27.971Z"
             },
             {
               "$type": "Document",
@@ -318,8 +299,7 @@
               "RelativeToolTip": "Domain\\Command\\ProdutoDeleteCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T02:54:23.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T02:54:23.815Z"
             },
             {
               "$type": "Document",
@@ -331,8 +311,7 @@
               "RelativeToolTip": "Domain\\Command\\ProdutoUpdateCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T02:54:08.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T02:54:08.545Z"
             }
           ]
         }
