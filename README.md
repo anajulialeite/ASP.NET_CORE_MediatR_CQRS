@@ -114,7 +114,7 @@ Ana Júlia de Lima Aguiar Leite
     <img src="https://img.shields.io/badge/Linkedin-%231C003F?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
 </a>
 
-## Links Úteis
+## Links úteis
 
 - [Artigo de como implementar o padrão Mediator usando o MediatR](https://macoratti.net/20/07/aspc_mediatr1.htm)  
 - [.NET - O padrão do projeto Mediator](https://www.macoratti.net/11/06/pp_med1.htm)
