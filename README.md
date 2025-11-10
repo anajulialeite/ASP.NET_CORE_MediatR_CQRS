@@ -1,4 +1,4 @@
-# ASP.NET_CORE_MediatR_CQRS
+# ASP.NET CORE MediatR CQRS
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" align="left" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" align="left" width="50" height="50"/>
